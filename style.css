@@ -1,0 +1,25 @@
+body {
+	color : white ;
+	font-size : 20px ;
+	background-color : olive ;
+	font-family : noto sans ;
+	text-align : left ;
+}
+TD {
+	border : 2px solid black;
+	border-color : white;
+}
+IMG {
+	width : 350px ;
+	height : 250px ;
+	border : 2px solid black;
+	border-color : white;
+	border-radius : 20px;
+}
+H2 {
+	border : 2px solid black;
+	border-color : white;
+	border-radius : 20px;
+	background-color : white ;
+	color : olive ;
+	width : 260px ;
